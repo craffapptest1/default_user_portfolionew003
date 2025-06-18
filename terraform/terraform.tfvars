@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "newtestone"
+project = "newtestone"
+repository_url = "https://github.com/craffapptest1/default_user_portfolionew003"
+branch = "master"
+db_password = "newtestone_password"
+db_username = "postgres"
+db_name = "newtestone_db"
